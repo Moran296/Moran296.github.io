@@ -111,7 +111,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           A 6 month extensive training on C/C++ programming, memory management, data structures, algorithms, and design patterns.
       - layout: left
-        title: Haifa University tourism school
+        title: Haifa University Tourism School
         caption: 2017 - 2019
         sub_title: Tour guide license
         #description: | # this will include new lines to allow paragraphs
@@ -134,7 +134,7 @@ content:
       Alongside my interests in embedded and software engineering some of my other interests and hobbies are:
       - Traveling and exploring new places and cultures.
       - History and archeology.
-      - [Playing the guitar](https://www.facebook.com/moran.rozenszajn/videos/10158156871189034)
+      - [Playing the guitar](https://www.facebook.com/moran.rozenszajn/videos/10158156871189034) and other instruments.
       - Writing code for [fun...](https://github.com/Moran296/moranometer)
 
 # Footer
