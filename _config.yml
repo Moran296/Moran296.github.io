@@ -52,6 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, I am Moran, an RT embedded developer and team lead, with experience in different embedded IOT products ranging from home automation to agriculture and medical fields. I am enthusiastic about learning new technologies and applying them to solve real-world problems. I am a team player and a good communicator, and I enjoy working with people from different backgrounds and cultures.
 
   I am most skilled in: <mark>C/C++</mark> and <mark>FreeRTOS</mark>.
+
   My mother tounge is <mark>Hebrew</mark>, and I am fluent in <mark>English</mark> and very good in <mark>Mandarin Chinese</mark>.
 
 content:
@@ -109,6 +110,12 @@ content:
         sub_title: Core C/C++
         description: | # this will include new lines to allow paragraphs
           A 6 month extensive training on C/C++ programming, memory management, data structures, algorithms, and design patterns.
+      - layout: left
+        title: Haifa University tourism school
+        caption: 2017 - 2019
+        sub_title: Tour guide license
+        #description: | # this will include new lines to allow paragraphs
+          
       - layout: left
         title: South Western University of Finance and Economics (Chengdu, China)
         caption: 2015 - 2017
