@@ -54,24 +54,6 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>C/C++</mark> and <mark>FreeRTOS</mark>
 
 content:
-  # - title: Projects # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:
-  #     - layout: top-middle
-  #       title: Super awesome project
-  #       link: github.com/sproogen
-  #       # link_text: Project Website
-  #       additional_links:
-  #         - title:  sproogen/modern-resume-theme
-  #           icon: fab fa-github
-  #           url: github.com/sproogen/modern-resume-theme
-  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-  #         #   icon: fab fa-github
-  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-  #       quote: >
-  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  #       description: | # this will include new lines to allow paragraphs
-  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -81,13 +63,41 @@ content:
         sub_title: RT Embedded Team Lead
         caption: June 2022 - Present
         description: | # this will include new lines to allow paragraphs
-            Something something something
+            Leading a team of 3 developers on several different projects while maintaining 2 projects myself.
+            Handling the full development cycle from requirements gathering and design to production release and CI/CD.
+            Using project management tools such as <mark>Git</mark>, <mark>Jira</mark>, <mark>Gerrit</mark>, <mark>Gitlab</mark>, <mark>Github</mark>, and <mark>Bitbucket</mark>.
+            Managing communication between the team and the customer and also with development teams in other countries. 
+
       - layout: left
         title: TandemG
         sub_title: RT Embedded Software developer
         caption: December 2020 - June 2022
         description: | # this will include new lines to allow paragraphs
-            Something with developing
+            Developing and maintaining RT embedded software for several different products in the fields of home IOT, agriculture and medical.
+            Designing and implementing drivers, features and protocols in different enviorments using mostly <mark>C/C++</mark> and <mark>FreeRTOS</mark>.
+            Experience on microcontrollers such as <mark>STM32</mark>, <mark>ESP32</mark>, <mark>PIC32</mark>, <mark>NRF52</mark>.
+            Experience on <mark>FreeRTOS</mark>, <mark>ESP</mark>-<mark>IDF</mark>, <mark>Baremetal</mark.
+            Experience on communication protocols such as <mark>MQTT</mark>, <mark>HTTP</mark>, <mark>TCP/IP</mark>, <mark>I2C</mark>, <mark>SPI</mark>, <mark>UART</mark>, <mark>Modbus</mark>, etc..
+      - layout: left
+        title: Independent
+        sub_title: Chinese tour guide
+        caption: August 2017 - January 2020
+        description: | # this will include new lines to allow paragraphs
+            Independent tour guide for Chinese speaking tourist, delegations etc. Preformed multilingual translation for business groups in universities and companies.
+      - layout: left
+        title: NICE Systems
+        sub_title: QA and Integration Engineer
+        caption: August 2011 - November 2012
+        description: | # this will include new lines to allow paragraphs
+              Preformed tests and integration of a recording solution software at clients location in several different countries.           
+              Gained experience with SQL, Linux, Windows, and networking.
+      - layout: left
+        title: IDF/8200
+        sub_title: ELINT (Electronic Intelligence) Operator
+        caption: August 2008 - August 2011
+        description: | # this will include new lines to allow paragraphs
+              Preformed ELINT (Electronic Intelligence) operations on several different platforms.
+              Gained experience with RF, Radar and communication systems.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -96,8 +106,6 @@ content:
         title: Harvard University
         caption: 2010 - 2013
         sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
