@@ -74,9 +74,13 @@ content:
         caption: December 2020 - June 2022
         description: | # this will include new lines to allow paragraphs
             Developing and maintaining RT embedded software for several different products in the fields of home IOT, agriculture and medical.
+
             Designing and implementing drivers, features and protocols in different enviorments using mostly <mark>C/C++</mark> and <mark>FreeRTOS</mark>.
+
             Experience on microcontrollers such as <mark>STM32</mark>, <mark>ESP32</mark>, <mark>PIC32</mark>, <mark>NRF52</mark>.
-            Experience on <mark>FreeRTOS</mark>, <mark>ESP-IDF</mark>, <mark>Baremetal</mark>. |
+
+            Experience on <mark>FreeRTOS</mark>, <mark>ESP-IDF</mark>, <mark>Baremetal</mark>.
+
             Experience on communication protocols such as <mark>MQTT</mark>, <mark>HTTP</mark>, <mark>TCP/IP</mark>, <mark>I2C</mark>, <mark>SPI</mark>, <mark>UART</mark>, <mark>Modbus</mark>, etc..
       - layout: left
         title: Independent
