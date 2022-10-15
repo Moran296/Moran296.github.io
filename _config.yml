@@ -51,7 +51,8 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I am Moran, an RT embedded developer and team lead, with experience in different embedded IOT products ranging from home automation to agriculture and medical fields. I am enthusiastic about learning new technologies and applying them to solve real-world problems. I am a team player and a good communicator, and I enjoy working with people from different backgrounds and cultures.
 
-  I am most skilled in: <mark>C/C++</mark> and <mark>FreeRTOS</mark>
+  I am most skilled in: <mark>C/C++</mark> and <mark>FreeRTOS</mark>.
+  My mother tounge is <mark>Hebrew</mark>, and I am fluent in <mark>English</mark> and very good in <mark>Mandarin Chinese</mark>.
 
 content:
 
@@ -64,9 +65,9 @@ content:
         caption: June 2022 - Present
         description: | # this will include new lines to allow paragraphs
             Leading a team of 3 developers on several different projects while maintaining 2 projects myself.
-            Handling the full development cycle from requirements gathering and design to production release and CI/CD.
-            Using project management tools such as <mark>Git</mark>, <mark>Jira</mark>, <mark>Gerrit</mark>, <mark>Gitlab</mark>, <mark>Github</mark>, and <mark>Bitbucket</mark>.
-            Managing communication between the team and the customer and also with development teams in other countries. 
+              - Handling the full development cycle from requirements gathering and design to production release and CI/CD.
+              - Using project management tools such as <mark>Git</mark>, <mark>Jira</mark>, <mark>Gerrit</mark>, <mark>Gitlab</mark>, <mark>Github</mark>, and <mark>Bitbucket</mark>.
+              - Managing communication between the team and the customer and also with development teams in other countries. 
 
       - layout: left
         title: TandemG
@@ -74,10 +75,10 @@ content:
         caption: December 2020 - June 2022
         description: | # this will include new lines to allow paragraphs
             Developing and maintaining RT embedded software for several different products in the fields of home IOT, agriculture and medical.
-            Designing and implementing drivers, features and protocols in different enviorments using mostly <mark>C/C++</mark> and <mark>FreeRTOS</mark>.
-            Experience on microcontrollers such as <mark>STM32</mark>, <mark>ESP32</mark>, <mark>PIC32</mark>, <mark>NRF52</mark>.
-            Experience on <mark>FreeRTOS</mark>, <mark>ESP-IDF</mark>, <mark>Baremetal</mark>.
-            Experience on communication protocols such as <mark>MQTT</mark>, <mark>HTTP</mark>, <mark>TCP/IP</mark>, <mark>I2C</mark>, <mark>SPI</mark>, <mark>UART</mark>, <mark>Modbus</mark>, etc..
+              - Designing and implementing drivers, features and protocols in different enviorments using mostly <mark>C/C++</mark> and <mark>FreeRTOS</mark>.
+              - Experience on microcontrollers such as <mark>STM32</mark>, <mark>ESP32</mark>, <mark>PIC32</mark>, <mark>NRF52</mark>.
+              - Experience on <mark>FreeRTOS</mark>, <mark>ESP-IDF</mark>, <mark>Baremetal</mark>.
+              - Experience on communication protocols such as <mark>MQTT</mark>, <mark>HTTP</mark>, <mark>TCP/IP</mark>, <mark>I2C</mark>, <mark>SPI</mark>, <mark>UART</mark>, <mark>Modbus</mark>, etc..
       - layout: left
         title: Independent
         sub_title: Chinese tour guide
@@ -103,22 +104,31 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Experis Academy
+        caption: 2020
+        sub_title: Core C/C++
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          A 6 month extensive training on C/C++ programming, memory management, data structures, algorithms, and design patterns.
+      - layout: left
+        title: South Western University of Finance and Economics (Chengdu, China)
+        caption: 2015 - 2017
+        sub_title: Chinese Language and Culture
+        #description: | # this will include new lines to allow paragraphs Chinese language and culture studies.
+      - layout: left
+        title: Rimon school of music
+        caption: 2014 - 2015
+        sub_title: Music production and sound engineering
+        #description: | # this will include new lines to allow paragraphs
+          
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interests in embedded and software engineering some of my other interests and hobbies are:
+      - Traveling and exploring new places and cultures.
+      - History and archeology.
+      - [Playing the guitar](https://www.facebook.com/moran.rozenszajn/videos/10158156871189034)
+      - Writing code for [fun...](https://github.com/Moran296/moranometer)
 
 # Footer
 footer_show_references: false
