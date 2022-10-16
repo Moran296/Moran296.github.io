@@ -10,7 +10,6 @@ name: Moran Rozenszajn
 title: RT Embedded software developer/team lead
 email: moriki@gmail.com
 phone: +972-545660849
-location: Nes-Ziyonna, Israel
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -104,24 +103,24 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: Experis Academy
         caption: 2020
         sub_title: Core C/C++
         description: | # this will include new lines to allow paragraphs
           A 6 month extensive training on C/C++ programming, memory management, data structures, algorithms, and design patterns.
-      - layout: top-right
+      - layout: top-middle
         title: Haifa University Tourism School
         caption: 2017 - 2019
         sub_title: Tour guide license
         #description: | # this will include new lines to allow paragraphs
           
-      - layout: top
+      - layout: top-middle
         title: South Western University of Finance and Economics (Chengdu, China)
         caption: 2015 - 2017
         sub_title: Chinese Language and Culture
         #description: | # this will include new lines to allow paragraphs Chinese language and culture studies.
-      - layout: top-left
+      - layout: top-middle
         title: Rimon school of music
         caption: 2014 - 2015
         sub_title: Music production and sound engineering
