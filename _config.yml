@@ -126,6 +126,10 @@ content:
         caption: 2014 - 2015
         sub_title: Music production and sound engineering
         #description: | # this will include new lines to allow paragraphs
+      - layout: center
+        title: Aleh School of Science and Arts, Lod
+        caption: 2004 - 2008
+        sub_title: Full matriculation with major in computer science
           
 
   - title: A Little More About Me
