@@ -110,23 +110,23 @@ content:
         sub_title: Core C/C++
         description: | # this will include new lines to allow paragraphs
           A 6 month extensive training on C/C++ programming, memory management, data structures, algorithms, and design patterns.
-      - layout: left
+      - layout: top-right
         title: Haifa University Tourism School
         caption: 2017 - 2019
         sub_title: Tour guide license
         #description: | # this will include new lines to allow paragraphs
           
-      - layout: left
+      - layout: top
         title: South Western University of Finance and Economics (Chengdu, China)
         caption: 2015 - 2017
         sub_title: Chinese Language and Culture
         #description: | # this will include new lines to allow paragraphs Chinese language and culture studies.
-      - layout: left
+      - layout: top-left
         title: Rimon school of music
         caption: 2014 - 2015
         sub_title: Music production and sound engineering
         #description: | # this will include new lines to allow paragraphs
-      - layout: center
+      - layout: top-middle
         title: Aleh School of Science and Arts, Lod
         caption: 2004 - 2008
         sub_title: Full matriculation with major in computer science
