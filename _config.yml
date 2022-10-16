@@ -134,9 +134,9 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in embedded and software engineering some of my other interests and hobbies are:
       - ⛺ Traveling and exploring new places and cultures.
-      - :books: History and archeology.
-      - :guitar: [Playing the guitar](https://www.facebook.com/moran.rozenszajn/videos/10158156871189034) and other instruments.
-      - :computer: Writing code for [fun...](https://github.com/Moran296/moranometer)
+      - 👲 History and archeology.
+      - 🎸 [Playing the guitar](https://www.facebook.com/moran.rozenszajn/videos/10158156871189034) and other instruments.
+      - 💻 Writing code for [fun...](https://github.com/Moran296/moranometer)
 
 # Footer
 footer_show_references: false
