@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>C/C++</mark> and <mark>FreeRTOS</mark>.
 
-  My mother tounge is <mark>Hebrew</mark>, and I am fluent in <mark>English</mark> and very good in <mark>Mandarin Chinese</mark>.
+  My mother tongue is <mark>Hebrew</mark>, and I am fluent in <mark>English</mark> and very good in <mark>Mandarin Chinese</mark>.
 
 content:
 
@@ -84,20 +84,20 @@ content:
         sub_title: Chinese tour guide
         caption: August 2017 - January 2020
         description: | # this will include new lines to allow paragraphs
-            Independent tour guide for Chinese speaking tourist, delegations etc. Preformed multilingual translation for business groups in universities and companies.
+            Independent tour guide for Chinese speaking tourists, delegations etc. Performed multilingual translation for business groups in universities and companies.
       - layout: left
         title: NICE Systems
         sub_title: QA and Integration Engineer
         caption: August 2011 - November 2012
         description: | # this will include new lines to allow paragraphs
-              Preformed tests and integration of a recording solution software at clients location in several different countries.           
+              Performed tests and integration of a recording solution software at clients location in several different countries.           
               Gained experience with SQL, Linux, Windows, and networking.
       - layout: left
         title: IDF/8200
         sub_title: ELINT (Electronic Intelligence) Operator
         caption: August 2008 - August 2011
         description: | # this will include new lines to allow paragraphs
-              Preformed ELINT (Electronic Intelligence) operations on several different platforms.
+              Performed ELINT (Electronic Intelligence) operations on several different platforms.
               Gained experience with RF, Radar and communication systems.
 
   - title: Education # Title for the section
