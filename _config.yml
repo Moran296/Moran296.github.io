@@ -48,7 +48,7 @@ linkedin_username: moran-rozenszajn
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I am Moran, an RT embedded developer and team lead, with experience in different embedded IOT products ranging from home automation to agriculture and medical fields. I am enthusiastic about learning new technologies and applying them to solve real-world problems. I am a team player and a good communicator, and I enjoy working with people from different backgrounds and cultures.
+  Hi, I am Moran, an RT embedded developer and team lead, with experience in different embedded IOT products ranging from home automation to agriculture and medical fields. I find interest in learning new technologies and applying them to solve real-world problems. I am a team player and a good communicator who enjoy working with people from different backgrounds and cultures.
 
   I am most skilled in: <mark>C/C++</mark> and <mark>FreeRTOS</mark>.
 
@@ -67,7 +67,7 @@ content:
             Leading a team of 3 developers on several different projects while maintaining 2 projects myself.
               - Handling the full development cycle from requirements gathering and design to production release and CI/CD.
               - Using project management tools such as <mark>Git</mark>, <mark>Jira</mark>, <mark>Gerrit</mark>, <mark>Gitlab</mark>, <mark>Github</mark>, and <mark>Bitbucket</mark>.
-              - Managing communication between the team and the customer and also with development teams in other countries. 
+              - Managing communication between the team and the customer as well as with development teams in other countries. 
 
       - layout: left
         title: TandemG
