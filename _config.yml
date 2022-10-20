@@ -79,6 +79,7 @@ content:
               - Experience on microcontrollers such as <mark>STM32</mark>, <mark>ESP32</mark>, <mark>PIC32</mark>, <mark>NRF52</mark>.
               - Experience on <mark>FreeRTOS</mark>, <mark>ESP-IDF</mark>, <mark>Baremetal</mark>.
               - Experience on communication protocols such as <mark>MQTT</mark>, <mark>HTTP</mark>, <mark>TCP/IP</mark>, <mark>I2C</mark>, <mark>SPI</mark>, <mark>UART</mark>, <mark>Modbus</mark>, etc..
+              - Integration with third party IOT platforms such as mobile applications, <mark>Microsoft Azure IOT hub</mark>, other cloud services, etc..
       - layout: left
         title: Independent
         sub_title: Chinese tour guide
@@ -136,7 +137,7 @@ content:
       - ⛺ Traveling and exploring new places and cultures.
       - 👲 History and archeology.
       - 🎸 [Playing the guitar](https://www.facebook.com/moran.rozenszajn/videos/10158156871189034) and other instruments.
-      - 💻 Writing code for [fun...](https://github.com/Moran296/moranometer)
+      - 💻 Writing <mark>rust</mark> code for [fun...](https://github.com/Moran296/shooby-db)
 
 # Footer
 footer_show_references: false
